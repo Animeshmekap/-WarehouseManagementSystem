@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4facfe"/>
+      <stop offset="100%" stop-color="#00f2fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g)" rx="24"/>
+  <g transform="translate(60,60)" fill="#fff" font-family="Segoe UI, Roboto, Arial">
+    <text x="0" y="60" font-size="48" font-weight="700">Welcome to Warehouse Management</text>
+    <text x="0" y="110" font-size="20" opacity="0.95">Manage products, track stock, and collaborate with your team seamlessly.</text>
+    <g transform="translate(700,40)">
+      <rect x="0" y="0" width="360" height="360" rx="16" fill="#ffffff" opacity="0.06" />
+      <g transform="translate(32,28)">
+        <rect width="280" height="280" rx="12" fill="#fff" opacity="0.08" />
+        <circle cx="140" cy="106" r="64" fill="#fff" opacity="0.12" />
+        <rect x="20" y="200" width="240" height="24" rx="6" fill="#fff" opacity="0.08" />
+      </g>
+    </g>
+  </g>
+</svg>
